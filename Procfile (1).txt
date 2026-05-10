@@ -1,0 +1,1 @@
+worker: python liebert_bot_full.py
